@@ -48,7 +48,7 @@
 ## Microprocessors Experiments (MP)
 
 <details>
-<summary><b>8. 16-bit Arithmetic Operations</b></summary>
+<summary><b>8. 8-bit Arithmetic Operations</b></summary>
 
 - (a) Addition using MASM  
 - (b) Subtraction using MASM
@@ -58,19 +58,29 @@
 </details>
 
 <details>
-<summary><b>9. 32-bit Arithmetic Operations</b></summary>
+<summary><b>9. 16-bit Arithmetic Operations</b></summary>
+
+- (a) Addition using MASM  
+- (b) Subtraction using MASM
+- (b) Multiplication using MASM
+- (b) Division using MASM
+
+</details>
+
+<details>
+<summary><b>10. 32-bit Arithmetic Operations</b></summary>
 
 - (a) Addition using MASM  
 - (b) Subtraction using MASM
 
 </details>
 
-10. Displaying Two Strings
-11. Checking Whether a Number is Even or Odd  
-12. Finding the Largest Number in an Array  
-13. Sorting an Array (Ascending Order)  
-14. Finding the Factorial of a Number
-15. Displaying Two Strings Using a Macro
-16. Decimal to Hexadecimal Conversion 
+11. Displaying Two Strings
+12. Checking Whether a Number is Even or Odd  
+13. Finding the Largest Number in an Array  
+14. Sorting an Array (Ascending Order)  
+15. Finding the Factorial of a Number
+16. Displaying Two Strings Using a Macro
+17. Decimal to Hexadecimal Conversion 
 
 ---
