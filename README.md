@@ -74,6 +74,3 @@
 16. Decimal to Hexadecimal Conversion 
 
 ---
-
-### 📘 Reference
-- [KTU 2019 Scheme CSE Syllabus (Official PDF)](https://drive.google.com/file/d/1w8HbisojwI1t8gL5qcFL5rWbyvvJQaSa/view)
