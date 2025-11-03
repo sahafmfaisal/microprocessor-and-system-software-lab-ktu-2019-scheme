@@ -1,5 +1,9 @@
 # KTU S5 CSL 331 - System Software and Microprocessors Lab Experiments (2019 Scheme)
-*(See Syllabus)*
+*(See [Syllabus Here](https://drive.google.com/file/d/1w8HbisojwI1t8gL5qcFL5rWbyvvJQaSa/view))*
+
+---
+
+## 🧩 Operating Systems Experiments (OS)
 
 <details>
 <summary><b>1. CPU Scheduling Algorithms</b></summary>
@@ -25,6 +29,39 @@
 <summary><b>4. FCFS Disk Scheduling Algorithm</b></summary>
 
 </details>
+
+---
+
+## ⚙️ System Software Experiments (SS)
+
+<details>
+<summary><b>13. Pass One of Two-Pass Assembler</b></summary>
+
+</details>
+
+<details>
+<summary><b>14. Pass Two of Two-Pass Assembler</b></summary>
+
+</details>
+
+<details>
+<summary><b>15. Absolute Loader</b></summary>
+
+</details>
+
+<details>
+<summary><b>16. Relocating Loader</b></summary>
+
+</details>
+
+<details>
+<summary><b>17. Single Pass Assembler</b></summary>
+
+</details>
+
+---
+
+## 🔩 Microprocessors Experiments (MP)
 
 <details>
 <summary><b>5. Simple Decimal Arithmetic Operations using 8086 Trainer Kit</b></summary>
@@ -66,27 +103,4 @@
 
 </details>
 
-<details>
-<summary><b>13. Pass One of Two-Pass Assembler</b></summary>
 
-</details>
-
-<details>
-<summary><b>14. Pass Two of Two-Pass Assembler</b></summary>
-
-</details>
-
-<details>
-<summary><b>15. Absolute Loader</b></summary>
-
-</details>
-
-<details>
-<summary><b>16. Relocating Loader</b></summary>
-
-</details>
-
-<details>
-<summary><b>17. Single Pass Assembler</b></summary>
-
-</details>
