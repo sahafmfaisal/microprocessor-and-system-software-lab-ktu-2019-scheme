@@ -5,7 +5,6 @@
 
 ## Operating Systems Experiments (OS)
 
-### CPU Scheduling
 <details>
 <summary><b>1. CPU Scheduling Algorithms</b></summary>
 
@@ -18,7 +17,6 @@
 
 2. Banker's Algorithm
 
-### Disk Scheduling
 <details>
 <summary><b>3. Disk Scheduling Algorithms</b></summary>
 
@@ -28,7 +26,6 @@
 
 </details>
 
-### Page Replacement
 <details>
 <summary><b>4. Page Replacement Algorithms</b></summary>
 
