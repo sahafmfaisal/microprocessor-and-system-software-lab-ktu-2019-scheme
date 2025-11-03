@@ -6,7 +6,7 @@
 
 2. **Input** the program name.
 
-3. **Open** the object file (`input1.txt`) for reading.
+3. **Open** the object file (`input.txt`) for reading.
 
 4. **Read** the first record (Header record).
 
@@ -39,3 +39,4 @@
 8. **Close** the file.
 
 9. **Stop**
+
