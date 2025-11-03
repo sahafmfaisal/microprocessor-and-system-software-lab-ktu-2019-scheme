@@ -5,6 +5,7 @@
 
 ## 🧩 Operating Systems Experiments (OS)
 
+### 🕒 CPU Scheduling
 <details>
 <summary><b>1. CPU Scheduling Algorithms</b></summary>
 
@@ -15,18 +16,26 @@
 
 </details>
 
+### 🧮 Banker's Algorithm
+2. Banker's Algorithm
+
+### 💽 Disk Scheduling
 <details>
-<summary><b>2. Banker's Algorithm</b></summary>
+<summary><b>3. Disk Scheduling Algorithms</b></summary>
+
+- (a) FCFS  
+- (b) Scan 
+- (c) C-Scan 
 
 </details>
 
+### 🧠 Page Replacement
 <details>
-<summary><b>3. FIFO Page Replacement Algorithm</b></summary>
+<summary><b>4. Page Replacement Algorithms</b></summary>
 
-</details>
-
-<details>
-<summary><b>4. FCFS Disk Scheduling Algorithm</b></summary>
+- (a) FIFO  
+- (b) LRU
+- (c) Optimal
 
 </details>
 
@@ -34,73 +43,43 @@
 
 ## ⚙️ System Software Experiments (SS)
 
-<details>
-<summary><b>13. Pass One of Two-Pass Assembler</b></summary>
-
-</details>
-
-<details>
-<summary><b>14. Pass Two of Two-Pass Assembler</b></summary>
-
-</details>
-
-<details>
-<summary><b>15. Absolute Loader</b></summary>
-
-</details>
-
-<details>
-<summary><b>16. Relocating Loader</b></summary>
-
-</details>
-
-<details>
-<summary><b>17. Single Pass Assembler</b></summary>
-
-</details>
+5. Pass One of Two-Pass Assembler  
+6. Pass Two of Two-Pass Assembler  
+7. Absolute Loader   
 
 ---
 
 ## 🔩 Microprocessors Experiments (MP)
 
+### 🔢 16-bit Arithmetic
 <details>
-<summary><b>5. Simple Decimal Arithmetic Operations using 8086 Trainer Kit</b></summary>
+<summary><b>8. 16-bit Arithmetic Operations</b></summary>
+
+- (a) Addition using MASM  
+- (b) Subtraction using MASM
+- (b) Multiplication using MASM
+- (b) Division using MASM
 
 </details>
 
+### 🧮 32-bit Arithmetic
 <details>
-<summary><b>6. Bit Manipulation Operations using 8086 Trainer Kit</b></summary>
+<summary><b>9. 32-bit Arithmetic Operations</b></summary>
+
+- (a) Addition using MASM  
+- (b) Subtraction using MASM
 
 </details>
 
-<details>
-<summary><b>7. Code Conversion between BCD & Hexadecimal</b></summary>
+10. Displaying Two Strings
+11. Checking Whether a Number is Even or Odd  
+12. Finding the Largest Number in an Array  
+13. Sorting an Array (Ascending Order)  
+14. Finding the Factorial of a Number
+15. Displaying Two Strings Using a Macro
+16. Decimal to Hexadecimal Conversion 
 
-</details>
+---
 
-<details>
-<summary><b>8. Interfacing with Stepper Motor</b></summary>
-
-</details>
-
-<details>
-<summary><b>9. Interfacing with 8279</b></summary>
-
-</details>
-
-<details>
-<summary><b>10. Simple Arithmetic Operations using 8051</b></summary>
-
-</details>
-
-<details>
-<summary><b>11. Sorting and Searching using MASM</b></summary>
-
-</details>
-
-<details>
-<summary><b>12. Arithmetic Operations using MASM</b></summary>
-
-</details>
-
-
+### 📘 Reference
+- [KTU 2019 Scheme CSE Syllabus (Official PDF)](https://drive.google.com/file/d/1w8HbisojwI1t8gL5qcFL5rWbyvvJQaSa/view)
