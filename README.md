@@ -3,9 +3,9 @@
 
 ---
 
-## 🧩 Operating Systems Experiments (OS)
+## Operating Systems Experiments (OS)
 
-### 🕒 CPU Scheduling
+### CPU Scheduling
 <details>
 <summary><b>1. CPU Scheduling Algorithms</b></summary>
 
@@ -16,10 +16,9 @@
 
 </details>
 
-### 🧮 Banker's Algorithm
 2. Banker's Algorithm
 
-### 💽 Disk Scheduling
+### Disk Scheduling
 <details>
 <summary><b>3. Disk Scheduling Algorithms</b></summary>
 
@@ -29,7 +28,7 @@
 
 </details>
 
-### 🧠 Page Replacement
+### Page Replacement
 <details>
 <summary><b>4. Page Replacement Algorithms</b></summary>
 
@@ -41,7 +40,7 @@
 
 ---
 
-## ⚙️ System Software Experiments (SS)
+## System Software Experiments (SS)
 
 5. Pass One of Two-Pass Assembler  
 6. Pass Two of Two-Pass Assembler  
@@ -49,9 +48,8 @@
 
 ---
 
-## 🔩 Microprocessors Experiments (MP)
+## Microprocessors Experiments (MP)
 
-### 🔢 16-bit Arithmetic
 <details>
 <summary><b>8. 16-bit Arithmetic Operations</b></summary>
 
@@ -62,7 +60,6 @@
 
 </details>
 
-### 🧮 32-bit Arithmetic
 <details>
 <summary><b>9. 32-bit Arithmetic Operations</b></summary>
 
