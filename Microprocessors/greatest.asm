@@ -1,0 +1,31 @@
+DATA SEGMENT
+    A DB 08H, 14H, 05H, 0FH, 09H
+    RES DB (?)
+DATA ENDS
+
+CODE SEGMENT
+ASSUME CS:CODE, DS:DATA
+
+START:
+    MOV AX, DATA
+    MOV DS, AX
+    MOV CX, 05H
+    MOV BL, 00H
+    MOV SI, OFFSET A
+    MOV CX, 5
+
+UP:
+    MOV AL, [SI]
+    CMP AL, BL
+    JL NXT
+    MOV BL, AL
+
+NXT:
+    INC SI
+    DEC CX
+    JNZ UP
+    MOV RES, BL
+    INT 3H
+
+CODE ENDS
+END START
